@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
-  <font color="red">
+  <head>
+    <h1> A Man with a Lamp </h1>
+  </head>
   
 <body style="background-color:#9CDAF1;">
 
