@@ -8,7 +8,7 @@
 <div>
 <h1>A blind man</h1>
 <p>Once upon a time, there was a small town. There lived a man by himself who couldn’t see.<br>
-  <h3>He was blind. </h3> Yet, he carried a lighted lamp with him whenever he went out at night.</p>
+  <b>He was blind</b>.Yet, he carried a lighted lamp with him whenever he went out at night.</p>
   </div>
 
 <h1 style="background-color:powderblue;">This is a heading</h1>
