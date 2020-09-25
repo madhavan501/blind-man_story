@@ -3,8 +3,7 @@
   <head>
     <h1><b> A Man with a Lamp</b> </h1>
   </head>
-  
-<body style="background-color:#9CDAF1;">
+  <body bgcolor="#def28d">
   <img src="https://www.moralstories.org/wp-content/uploads/2017/11/blind-man-moral-story.jpg" alt="blind_man">
 
   <h2><b>Blind Man</b></h2>
@@ -28,8 +27,6 @@
     </td>
   </tr>
   </table>
-
-</font>
 </body>
 </html>
 
