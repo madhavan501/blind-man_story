@@ -13,6 +13,10 @@
   <b>He was blind</b>.Yet, he carried a lighted lamp with him whenever he went out at night.</p>
   </div>
   <h3>scene:1</h3>
+  <div>
+  <p>One night as he was coming home after having a dinner outside, he came across a group of young travellers.<br>They saw that he was blind, yet carrying a lighted lamp. They started passing comments on him and made a fun of him.</p>
+  <h4>travellers</h4>
+  <p>One of them asked him, “Hey Man! You are blind and can’t see anything! Why do you carry the lamp then?!”</p>
   
 
 
