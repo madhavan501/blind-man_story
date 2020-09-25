@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <h1> A Man with a Lamp </h1>
+    <h1><b> A Man with a Lamp</b> </h1>
   </head>
   
 <body style="background-color:#9CDAF1;">
