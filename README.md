@@ -5,7 +5,7 @@
 <h1 style="color: red;"> <b> A Man with a Lamp</b> </h1>
     
   </head>
-  <body bgcolor="blue">
+  <body bgcolor="bg-yellow">
   <img src="https://www.moralstories.org/wp-content/uploads/2017/11/blind-man-moral-story.jpg" alt="blind_man">
 
   <h2><b>Blind Man</b></h2>
