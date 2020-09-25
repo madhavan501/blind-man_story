@@ -21,8 +21,13 @@
   <p><i> “Yes, unfortunately, I am blind and I can’t see anything but a lighted lamp which I am carrying is for the people like you who can see.<br> You may not see the blind man coming and end up pushing me. That is why I carry a lighted lamp”.</i></p>
   <p><i>The group of travellers felt ashamed and apologized for their behaviour.</i></p>
   <h3>MORAL:</h3>
+  <table>
+    <tr>
+      <td>
   <p><b><i> "We should think before judging others. Always be polite and learn to see things from others point of view."</i></b></P>
-
+    </td>
+  </tr>
+  </table>
 
 </font>
 </body>
