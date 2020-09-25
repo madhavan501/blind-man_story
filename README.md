@@ -24,7 +24,7 @@
   <table>
     <tr>
       <td>
-  <p><b><i> <br>"We should think before judging others. Always be polite and learn to see things from others point of view."<br></i></b></P>
+  <p><b><i> <br>"We should think before judging others. Always be polite and learn to see things from others point of view."</i></b></P>
     </td>
   </tr>
   </table>
