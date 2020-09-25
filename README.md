@@ -5,7 +5,7 @@
   </head>
   
 <body style="background-color:#9CDAF1;">
-  <img src="blind_man.jpg" alt="blind_man">
+  <img src="https://www.moralstories.org/wp-content/uploads/2017/11/blind-man-moral-story.jpg" alt="blind_man">
 
   <h2><b>Blind Man</b></h2>
 <div>
