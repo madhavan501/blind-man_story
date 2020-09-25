@@ -6,9 +6,9 @@
   
 <body style="background-color:#9CDAF1;">
 <div>
-<h1> scene:1</h1>
+<h1>A blind man</h1>
 <p>Once upon a time, there was a small town. There lived a man by himself who couldn’t see.<br>
-  He was blind.  Yet, he carried a lighted lamp with him whenever he went out at night.</p>
+  <h3>He was blind. </h3> Yet, he carried a lighted lamp with him whenever he went out at night.</p>
   </div>
 
 <h1 style="background-color:powderblue;">This is a heading</h1>
