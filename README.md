@@ -14,7 +14,7 @@
   </div>
   <h3><i>One night(blind man)</i> </h3>
   <div>
-  <p> "As he was coming home after having a dinner outside, he came across a group of young travellers.<br>They saw that he was blind, yet carrying a lighted lamp. They started passing comments on him and made a fun of him."</p>
+  <p><i> "As he was coming home after having a dinner outside, he came across a group of young travellers.<br>They saw that he was blind, yet carrying a lighted lamp. They started passing comments on him and made a fun of him."</i></p>
   <h3><i>Traveller asked him,</i></h3>
   <p> <i>“Hey Man! You are blind and can’t see anything! Why do you carry the lamp then?!”</i></p>
   <h4>
