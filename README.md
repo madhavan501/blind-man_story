@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <h1><b> A Man with a Lamp</b> </h1>
+   
+<h1 style="color: red;"> <b> A Man with a Lamp</b> </h1>
+    
   </head>
-  <body bgcolor="#def28d">
+  <body bgcolor="blue">
   <img src="https://www.moralstories.org/wp-content/uploads/2017/11/blind-man-moral-story.jpg" alt="blind_man">
 
   <h2><b>Blind Man</b></h2>
