@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   
-<body style="background-color:powderblue;">
+<body style="background-color:#9CDAF1;">
 
 <h1>This is a heading</h1>
 <p>This is a paragraph.</p>
