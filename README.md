@@ -1,8 +1,7 @@
-<!DOCTYPE html>
+
 <html lang="en">
   <head>
-   <meta charset=:"UTF-8">
-    <h1>A Man with a Lamp</h1>
+   <h1>A Man with a Lamp</h1>
     </head>
   <body style="background: orange;">
   <img src="https://www.moralstories.org/wp-content/uploads/2017/11/blind-man-moral-story.jpg" alt="blind_man">
@@ -28,6 +27,5 @@
     </td>
   </tr>
   </table>
-</body>
-</html>
+
 
