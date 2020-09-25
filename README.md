@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
    <meta charset=:"UTF-8">
-    <title> <b> A Man with a Lamp</title>
+    <h1>A Man with a Lamp</h1>
     </head>
   <body style="background:orange;">
   <img src="https://www.moralstories.org/wp-content/uploads/2017/11/blind-man-moral-story.jpg" alt="blind_man">
