@@ -15,9 +15,9 @@
   <h3><i>One night(blind man)</i> </h3>
   <div>
   <p><i> "As he was coming home after having a dinner outside, he came across a group of young travellers.<br>They saw that he was blind, yet carrying a lighted lamp. They started passing comments on him and made a fun of him."</i></p>
-  <h3><i>Traveller asked him,</i></h3>
+  <h4><i>Traveller asked him,</i></h4>
   <p> <i>“Hey Man! You are blind and can’t see anything! Why do you carry the lamp then?!”</i></p>
-  <h3><i>The blind man replied,</i></h3>
+  <h4><i>The blind man replied,</i></h4>
   <p><i> “Yes, unfortunately, I am blind and I can’t see anything but a lighted lamp which I am carrying is for the people like you who can see.<br> You may not see the blind man coming and end up pushing me. That is why I carry a lighted lamp”.</i></p>
 
 
